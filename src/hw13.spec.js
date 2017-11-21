@@ -7,7 +7,7 @@ import { getDay, fakeUsers, getAdultUsers, getRandomUsers } from './hw13';
 describe('Get day', () => {
     it('should return date number', () => {
         expect(typeof getDay()).to.equal('number');
-        expect(0 > getDay() > 32).to.equal(true);
+        expect(0 < getDay() && getDay() < 32).to.equal(true);
     })
 });
 

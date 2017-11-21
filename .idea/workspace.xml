@@ -29,9 +29,11 @@
       <file leaf-file-name="hw13.spec.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/hw13.spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="58" lean-forward="false" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
-              <folding />
+            <state relative-caret-position="153">
+              <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+              <folding>
+                <element signature="e#101#127#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -296,7 +298,7 @@
       <workItem from="1510394527899" duration="10801000" />
       <workItem from="1510967905715" duration="812000" />
       <workItem from="1511217502994" duration="3140000" />
-      <workItem from="1511248220765" duration="17000" />
+      <workItem from="1511248220765" duration="552000" />
     </task>
     <servers />
   </component>
@@ -315,7 +317,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23905000" />
+    <option name="totallyTimeSpent" value="24440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="80" y="87" width="1600" height="876" extended-state="0" />
@@ -354,7 +356,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-          <folding />
+          <folding>
+            <element signature="e#101#127#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -444,7 +448,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#101#127#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -652,14 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hw13.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/person.spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -726,11 +724,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/hw13.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/hw13.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="58" lean-forward="false" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
-          <folding />
+        <state relative-caret-position="153">
+          <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding>
+            <element signature="e#101#127#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
