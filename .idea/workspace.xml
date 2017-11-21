@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c55cb7cd-8bb1-454e-a81f-60f1416c2335" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/hw13.spec.js" afterPath="$PROJECT_DIR$/src/hw13.spec.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -29,8 +30,8 @@
       <file leaf-file-name="hw13.spec.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/hw13.spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            <state relative-caret-position="578">
+              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding>
                 <element signature="e#101#127#0" expanded="true" />
               </folding>
@@ -62,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/src/tools.spec.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="10" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="8" selection-end-column="10" />
+              <caret line="8" column="10" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="8" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -71,7 +72,7 @@
       <file leaf-file-name="karma.conf.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/karma.conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="952">
               <caret line="57" column="39" lean-forward="false" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -298,7 +299,8 @@
       <workItem from="1510394527899" duration="10801000" />
       <workItem from="1510967905715" duration="812000" />
       <workItem from="1511217502994" duration="3140000" />
-      <workItem from="1511248220765" duration="552000" />
+      <workItem from="1511248220765" duration="590000" />
+      <workItem from="1511252943971" duration="266000" />
     </task>
     <servers />
   </component>
@@ -317,7 +319,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24440000" />
+    <option name="totallyTimeSpent" value="24744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="80" y="87" width="1600" height="876" extended-state="0" />
@@ -693,7 +695,7 @@
     <entry file="file://$PROJECT_DIR$/src/tools.spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="8" selection-end-column="10" />
+          <caret line="8" column="10" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="8" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -716,7 +718,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/karma.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="952">
           <caret line="57" column="39" lean-forward="false" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -734,8 +736,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hw13.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        <state relative-caret-position="578">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
             <element signature="e#101#127#0" expanded="true" />
           </folding>

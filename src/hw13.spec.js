@@ -6,8 +6,8 @@ import { getDay, fakeUsers, getAdultUsers, getRandomUsers } from './hw13';
 
 describe('Get day', () => {
     it('should return date number', () => {
-        expect(typeof getDay()).to.equal('number');
-        expect(0 < getDay() && getDay() < 32).to.equal(true);
+        const currentDay = new Date.getDay();
+        expect(getDay()).to.equal(currentDay);
     })
 });
 
@@ -22,15 +22,11 @@ describe('Get adult user filter', () => {
 
 describe('Get fake random', () => {
     const stub = sinon.stub(Math, 'random');
-    stub.returns(() => {
-        return 0.4
-    });
+    stub.returns(() => 0.4);
     it('should return user aged 4', () => {
         expect(getRandomUsers(fakeUsers))[0].age.to.equal(4);
     });
-    stub.returns(() => {
-        return 0.6
-    });
+    stub.returns(() => 0.6);
     it('should return user aged 4', () => {
         expect(getRandomUsers(fakeUsers))[0].age.to.equal(40);
     });
